@@ -9,3 +9,6 @@ change filePath in '_main_' of renamer.py
 ```
 python renamer.py
 ```
+# Example
+
+If there are several folders in E:\\test\\ , this program will rename every file in these folders to foldername+oldname.
