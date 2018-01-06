@@ -1,5 +1,5 @@
 # Python-renamer
-Rename every file in the sub folders 
+Rename every file in the sub folders with folder name plus oldname
 为当前目录下所有子文件夹内文件名加上目录名
 
 # Usage
