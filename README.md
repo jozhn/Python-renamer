@@ -5,7 +5,7 @@ Rename every file in the sub folders with folder name plus oldname
 
 # Usage
 
-change filePath in '_main_' of renamer.py
+change filePath in '_main_' ( in renamer.py)
 
 ```
 python renamer.py
